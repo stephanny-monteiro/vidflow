@@ -1,0 +1,12 @@
+{
+  "name": "projeto-vidflow-main",
+  "version": "1.0.0",
+  "main": "script.js",
+  "scripts": {
+    "api": "json-server --watch ./backend/videos.json --port 3000 --host 0.0.0.0"
+  },
+  "keywords": [],
+  "author": "Stephanny Monteiro",
+  "license": "ISC",
+  "description": "Projeto VidFlow com API fake usando JSON Server"
+}
